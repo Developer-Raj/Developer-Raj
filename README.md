@@ -11,23 +11,25 @@ With over 4 years of experience. Specialized in Front-End Development, UI Develo
 <br>
 
 ## My Development Stack
-<img src="https://img.shields.io/badge/VSCODE-007acc?logo=visual-studio-code&logoColor=white&style=flat-square"  style="display: inline-block;text-align: center;"/>
-<img src="https://img.shields.io/badge/HTML5-tomato?logo=HTML5&logoColor=white&style=flat-square" style="display: inline-block;text-align: center;" />
-<img src="https://img.shields.io/badge/CSS3-dodgerblue?logo=CSS3&logoColor=white&style=flat-square" style="display: inline-block;text-align: center;"/>
-<img src="https://img.shields.io/badge/JavaScript-gold?logo=Javascript&logoColor=393939&style=flat-square" style="display: inline-block;text-align: center;"/>
-<img src="https://img.shields.io/badge/React-61daf8?logo=React&logoColor=393939&style=flat-square" style="display: inline-block;text-align: center;"/>
-<img src="https://img.shields.io/badge/Redux-purple?logo=Redux&logoColor=white&style=flat-square" style="display: inline-block;text-align: center;"/>
-<img src="https://img.shields.io/badge/Bootstrap-slateblue?logo=Bootstrap&logoColor=white&style=flat-square" style="display: inline-block;text-align: center;"/>
-<img src="https://img.shields.io/badge/Material_UI-0081cb?logo=Material-UI&logoColor=white&style=flat-square" style="display: inline-block;text-align: center;"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38b2ac?logo=Tailwind-css&logoColor=white&style=flat-square" style="display: inline-block;text-align: center;"/>
-<img src="https://img.shields.io/badge/NodeJS-339933?logo=node-dot-js&logoColor=white&style=flat-square" style="display: inline-block;text-align: center;"/>
-<img src="https://img.shields.io/badge/ExpressJS-000?logo=express&logoColor=white&style=flat-square" style="display: inline-block;text-align: center;" />
-<img src="https://img.shields.io/badge/Typescript-3178c6?logo=typescript&logoColor=white&style=flat-square" style="display: inline-block;text-align: center;"/>
-<img src="https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white&style=flat-square" style="display: inline-block;text-align: center;"/>
-<img src="https://img.shields.io/badge/Selenium-43B02a?logo=Selenium&logoColor=white&style=flat-square" style="display: inline-block;text-align: center;" />
-<img src="https://img.shields.io/badge/Kotlin-0095d5?logo=kotlin&logoColor=white&style=flat-square" style="display: inline-block;text-align: center;" />
-<img src="https://img.shields.io/badge/Figma-f24e1e?logo=Figma&logoColor=white&style=flat-square" style="display: inline-block;text-align: center;" />
-<img src="https://img.shields.io/badge/AdobeXD-ff61f6?logo=adobe-xd&logoColor=white&style=flat-square" style="display: inline-block;text-align: center;" />
+<br>
+
+<img src="https://img.shields.io/badge/VSCODE-007acc?logo=visual-studio-code&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/HTML5-tomato?logo=HTML5&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/CSS3-dodgerblue?logo=CSS3&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/JavaScript-gold?logo=Javascript&logoColor=393939&style=flat-square" />
+<img src="https://img.shields.io/badge/React-61daf8?logo=React&logoColor=393939&style=flat-square" />
+<img src="https://img.shields.io/badge/Redux-purple?logo=Redux&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/Bootstrap-slateblue?logo=Bootstrap&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/Material_UI-0081cb?logo=Material-UI&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38b2ac?logo=Tailwind-css&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/NodeJS-339933?logo=node-dot-js&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/ExpressJS-000?logo=express&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/Typescript-3178c6?logo=typescript&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/Selenium-43B02a?logo=Selenium&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/Kotlin-0095d5?logo=kotlin&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/Figma-f24e1e?logo=Figma&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/AdobeXD-ff61f6?logo=adobe-xd&logoColor=white&style=flat-square" />
 
 
 <br>
