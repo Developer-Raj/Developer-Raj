@@ -11,17 +11,6 @@ With over 4 years of experience. Specialized in Front-End Development, UI Develo
 <br>
 
 ## My Development Stack
-<br>
-  <style>
-    .dev-stack
-    {
-      width: 100%;
-    }
-    .dev-stack img
-    {
-      
-    }
-  </style>
 <img src="https://img.shields.io/badge/VSCODE-007acc?logo=visual-studio-code&logoColor=white&style=flat-square"  style="display: inline-block;text-align: center;"/>
 <img src="https://img.shields.io/badge/HTML5-tomato?logo=HTML5&logoColor=white&style=flat-square" style="display: inline-block;text-align: center;" />
 <img src="https://img.shields.io/badge/CSS3-dodgerblue?logo=CSS3&logoColor=white&style=flat-square" style="display: inline-block;text-align: center;"/>
