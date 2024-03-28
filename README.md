@@ -6,7 +6,7 @@
 
 <br>
 
-With over 4 years of experience. Specialized in Front-End Development, UI Development, web scrapping, data extraction service, and UI/UX Design.
+With over 6 years of experience. Specialized in Front-End Development, UI Development, web scrapping, data extraction service, and UI/UX Design.
 <br>
 <br>
 
